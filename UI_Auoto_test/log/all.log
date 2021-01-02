@@ -30,3 +30,6 @@
 2021-01-02 13:18:48 - /Users/meng/Desktop/project/UIAutomationProject/UI_Auoto_test/testcase/test_baidu.py[line:18] - INFO: ceshi
 2021-01-02 13:18:53 - /Users/meng/Desktop/project/UIAutomationProject/UI_Auoto_test/testcase/test_baidu.py[line:26] - INFO: 结果ceshi01
 2021-01-02 13:18:53 - /Users/meng/Desktop/project/UIAutomationProject/UI_Auoto_test/testcase/test_baidu.py[line:27] - ERROR: dfaf
+2021-01-02 17:24:42 - /Users/meng/Desktop/project/UIAutomationProject/UI_Auoto_test/testcase/test_baidu.py[line:18] - INFO: ceshi
+2021-01-02 17:24:47 - /Users/meng/Desktop/project/UIAutomationProject/UI_Auoto_test/testcase/test_baidu.py[line:26] - INFO: 结果ceshi01
+2021-01-02 17:24:47 - /Users/meng/Desktop/project/UIAutomationProject/UI_Auoto_test/testcase/test_baidu.py[line:27] - ERROR: dfaf
