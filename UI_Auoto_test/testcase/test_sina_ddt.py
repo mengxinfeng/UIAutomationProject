@@ -2,6 +2,7 @@ import unittest,logging
 from selenium import webdriver
 from ddt import ddt, data, unpack
 
+
 @ddt
 class SinaLogin(unittest.TestCase):
     def setUp(self):
